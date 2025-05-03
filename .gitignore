@@ -1,0 +1,6 @@
+bin
+client/node_modules
+tmp
+.env
+build
+.cache

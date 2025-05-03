@@ -1,0 +1,92 @@
+[
+    {
+        "path": "*",
+        "meta": [
+            {
+                "charset": "UTF-8"
+            },
+            {
+                "name": "viewport",
+                "content": "width=device-width, initial-scale=1.0"
+            }
+        ],
+        "link": [
+            {
+                "rel": "icon",
+                "href": "/assets/favicon.ico"
+            }
+        ]
+    },
+    {
+        "path": "/",
+        "title": "Home",
+        "meta": [
+            {
+                "name": "description",
+                "content": "Template for creating web apps with go and react."
+            },
+            {
+                "property": "og:title",
+                "content": "Home"
+            },
+            {
+                "property": "og:description",
+                "content": "Template for creating web apps with go and react."
+            }
+        ],
+        "link": [
+            {
+                "rel": "canonical",
+                "href": "https://localhost"
+            }
+        ]
+    },
+    {
+        "path": "/sign-in",
+        "title": "Sign In",
+        "meta": [
+            {
+                "name": "description",
+                "content": "Template for creating web apps with go and react."
+            },
+            {
+                "property": "og:title",
+                "content": "Sign In"
+            },
+            {
+                "property": "og:description",
+                "content": "Template for creating web apps with go and react."
+            }
+        ],
+        "link": [
+            {
+                "rel": "canonical",
+                "href": "https://localhost/sign-in"
+            }
+        ]
+    },
+    {
+        "path": "/sign-up",
+        "title": "Sign Up",
+        "meta": [
+            {
+                "name": "description",
+                "content": "Template for creating web apps with go and react."
+            },
+            {
+                "property": "og:title",
+                "content": "Sign Up"
+            },
+            {
+                "property": "og:description",
+                "content": "Template for creating web apps with go and react."
+            }
+        ],
+        "link": [
+            {
+                "rel": "canonical",
+                "href": "https://localhost/sign-up"
+            }
+        ]
+    }
+]
